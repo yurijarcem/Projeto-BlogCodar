@@ -78,7 +78,7 @@ Antes de começar, verifique se você tem o seguinte instalado:
 
 ## Contribuições
 
-- **Se você quiser contribuir para o desenvolvimento do Blog Codar, siga os passos abaixo**:
+**Se você quiser contribuir para o desenvolvimento do Blog Codar, siga os passos abaixo**:
 
  - Faça um fork deste repositório.
 
