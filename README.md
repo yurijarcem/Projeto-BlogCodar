@@ -1,7 +1,7 @@
 
 ---
 
-### 3. **Blog**
+### **Blog**
 ```markdown
 # Blog - Plataforma de Artigos
 
